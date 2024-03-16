@@ -1,0 +1,14 @@
+/home/win/documents/github/Quant/App/bin/Debug/net8.0/App
+/home/win/documents/github/Quant/App/bin/Debug/net8.0/App.deps.json
+/home/win/documents/github/Quant/App/bin/Debug/net8.0/App.runtimeconfig.json
+/home/win/documents/github/Quant/App/bin/Debug/net8.0/App.dll
+/home/win/documents/github/Quant/App/bin/Debug/net8.0/App.pdb
+/home/win/documents/github/Quant/App/obj/Debug/net8.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/home/win/documents/github/Quant/App/obj/Debug/net8.0/App.AssemblyInfoInputs.cache
+/home/win/documents/github/Quant/App/obj/Debug/net8.0/App.AssemblyInfo.cs
+/home/win/documents/github/Quant/App/obj/Debug/net8.0/App.csproj.CoreCompileInputs.cache
+/home/win/documents/github/Quant/App/obj/Debug/net8.0/App.dll
+/home/win/documents/github/Quant/App/obj/Debug/net8.0/refint/App.dll
+/home/win/documents/github/Quant/App/obj/Debug/net8.0/App.pdb
+/home/win/documents/github/Quant/App/obj/Debug/net8.0/App.genruntimeconfig.cache
+/home/win/documents/github/Quant/App/obj/Debug/net8.0/ref/App.dll
